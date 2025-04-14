@@ -1,4 +1,4 @@
-# 💊 Med Reminder
+# 💊 Med Reminder [ built and deployed in under 50 min with [Bolt](https://bolt.new/)
 
 A simple, intuitive web application to help users keep track of their daily medications. Built with React, this app allows users to add, edit, and delete medicine reminders — so you'll never miss a dose again.
 
@@ -31,8 +31,6 @@ A simple, intuitive web application to help users keep track of their daily medi
 | Home | Add Reminder |
 |------|--------------|
 | ![Home](./screenshots/home.png) | ![Add](./screenshots/reminder.png) |
-
-> _Add screenshots in a `screenshots/` folder for better visuals._
 
 ---
 
